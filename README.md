@@ -102,8 +102,6 @@ to visually confirm correct chromosome-level scaffolding
 | Number of Contigs | 39 |
 | Contig N50 (bp) | 813,039 |
 | Contig L50 | 12 |
-| BUSCO Completeness (%) | — |
-| Merqury QV Score | — |
 ---
 
 ##  Tools Used
