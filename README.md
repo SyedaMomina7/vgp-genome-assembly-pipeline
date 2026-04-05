@@ -146,9 +146,9 @@ NUST
 
 Specail topics in bioinfomatics
 
-5TH , APRIL'26*
+5TH , APRIL'26
 
-Supervisor: *Sir Tanveer
+Supervisor: Sir Tanveer
 
 ---
 ##  Reference
