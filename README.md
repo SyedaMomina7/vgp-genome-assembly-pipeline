@@ -121,18 +121,17 @@ to visually confirm correct chromosome-level scaffolding
 | **PretextSnapshot** | Contact map image export |
 
 ---
----
-##  Documentation
 
-Detailed documentation for each pipeline stage is available in the `docs/` folder:
+## 📋 Documentation
 
-- [Workflow](/workflow.md) — Complete step-by-step pipeline
-- [Preprocessing](/preprocessing.md) — Read trimming details
-- [Genome Profiling](/genome_profiling.md) — K-mer analysis & genome estimation
-- [Assembly](/assembly.md) — HiFiasm contig assembly
-- [Scaffolding](/scaffolding.md) — Bionano & YaHS scaffolding
-- [Results](results/) — All major output files from each pipeline stage
+Detailed documentation for each pipeline stage is available in the respective folders:
 
+- [Workflow](workflow.md) — Complete step-by-step pipeline
+- [Preprocessing](02_preprocessing/) — Read trimming details
+- [Genome Profiling](03_genome_profiling/) — K-mer analysis & genome estimation
+- [Assembly](04_assembly/) — HiFiasm contig assembly
+- [Scaffolding](05_scaffolding/) — Bionano & YaHS scaffolding
+- [Results](06_results/) — All major output files from each pipeline stage
 ---
 ##  Screenshots
 (see images folder)
