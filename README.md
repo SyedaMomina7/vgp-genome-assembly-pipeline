@@ -141,7 +141,10 @@ Detailed documentation for each pipeline stage is available in the `docs/` folde
 ## 👤 Author
 
 **SYEDA MOMINA ASSAD**
-*NUST  Specail topics in bioinfomatics*
+*
+NUST  
+
+Specail topics in bioinfomatics*
 
 *5TH , APRIL'26*
 
