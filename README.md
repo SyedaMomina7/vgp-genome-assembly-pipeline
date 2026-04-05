@@ -141,14 +141,14 @@ Detailed documentation for each pipeline stage is available in the `docs/` folde
 ## 👤 Author
 
 **SYEDA MOMINA ASSAD**
-*
+
 NUST  
 
-Specail topics in bioinfomatics*
+Specail topics in bioinfomatics
 
-*5TH , APRIL'26*
+5TH , APRIL'26*
 
-Supervisor: *Sir Tanveer*
+Supervisor: *Sir Tanveer
 
 ---
 ##  Reference
