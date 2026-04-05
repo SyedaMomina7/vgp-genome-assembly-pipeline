@@ -1,4 +1,4 @@
-# 🏗️ Scaffolding
+# Scaffolding
 
 Following contig assembly, two sequential scaffolding stages were performed to organize 
 contigs into chromosome-level scaffolds. This corresponds to the third and fourth major 
@@ -12,7 +12,7 @@ stages of the GTN Vertebrate Genome Assembly pipeline.
 
 ---
 
-### 📋 Stage 1 — Bionano Hybrid Scaffolding
+### Stage 1 — Bionano Hybrid Scaffolding
 
 Bionano optical map data was integrated with the Hap1 contig assembly using 
 **Bionano Solve** to produce a hybrid scaffold. Optical maps provide long-range 
@@ -32,7 +32,7 @@ structural information that bridges gaps between contigs which Hi-C alone cannot
 
 ---
 
-### 📋 Stage 2 — YaHS Hi-C Scaffolding
+### Stage 2 — YaHS Hi-C Scaffolding
 
 The Bionano-scaffolded assembly was further scaffolded using **YaHS**, which uses 
 Hi-C chromatin contact frequencies to determine the correct order and orientation 
@@ -53,7 +53,7 @@ of scaffolds, producing final chromosome-level pseudomolecules.
 
 ---
 
-### 📊 Scaffold Statistics (gfastats)
+###  Scaffold Statistics (gfastats)
 
 | Metric | Value |
 |--------|-------|
@@ -65,7 +65,7 @@ of scaffolds, producing final chromosome-level pseudomolecules.
 
 ---
 
-### 🗺️ Hi-C Contact Map (PretextMap)
+### Hi-C Contact Map (PretextMap)
 
 After YaHS scaffolding, Hi-C reads were aligned to the final scaffold assembly 
 and visualized using **PretextMap** and **PretextSnapshot**. The contact map 
@@ -79,7 +79,7 @@ distinct diagonal blocks along the matrix.
 
 ---
 
-### 💡 Why Two Scaffolding Stages?
+###  Why Two Scaffolding Stages?
 
 Bionano optical maps resolve large structural gaps using enzyme-labelled 
 long-range physical maps, while Hi-C data uses chromatin interaction frequencies 
