@@ -19,10 +19,14 @@ Haplotype-resolved contig assembly was performed using **HiFiasm** in Hi-C phasi
 
 ### 📊 Assembly Statistics (gfastats)
 
-| Metric | Hap1 | Hap2 |
-|--------|------|------|
-| Total Length (Gb) | — | — |
-| Number of Contigs | — | — |
-| Contig N50 (Mb) | — | — |
-| Contig L50 | — | — |
-| Largest Contig (Mb) | — | — |
+### 📊 Assembly Statistics (gfastats)
+
+### 📊 Assembly Statistics (gfastats)
+
+| Metric | Value |
+|--------|-------|
+| Total Length (bp) | 23,518,211 |
+| Number of Contigs | 39 |
+| Contig N50 (bp) | 813,039 |
+| Contig L50 | 12 |
+| Largest Contig (bp) | 1,532,843 |
