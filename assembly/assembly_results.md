@@ -17,11 +17,7 @@ Haplotype-resolved contig assembly was performed using **HiFiasm** in Hi-C phasi
 - Homozygous coverage estimate from GenomeScope2
 
 
-### 📊 Assembly Statistics (gfastats)
-
-### 📊 Assembly Statistics (gfastats)
-
-### 📊 Assembly Statistics (gfastats)
+### 📊 Assembly Statistics
 
 | Metric | Value |
 |--------|-------|
